@@ -14,7 +14,7 @@ The security of repositories, tools, and services under the `@bhubbard` account 
    Navigate to the **Security** tab of the specific repository and select **"Report a vulnerability"** (or use the repository's security advisory link). This opens a private, encrypted thread directly with the maintainers.
 
 2. **Direct Contact:**
-   If GitHub Private Reporting is unavailable, send an email to `brandon@bhubbard.dev` with the subject tag `[SECURITY: <repo-name>]`.
+   If GitHub Private Reporting is unavailable, send an email to `hello@brandonhubbard.com` with the subject tag `[SECURITY: <repo-name>]`.
 
 ### What to Include in Your Report
 
